@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AbacondaKAPGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AbacondaKAPGame_jar</output-path>
+    <root id="archive" name="AbacondaKAPGame.jar">
+      <element id="module-output" name="AbacondaKAPGame" />
+    </root>
+  </artifact>
+</component>
